@@ -11,3 +11,4 @@ system.out.println("Hello, World");
 
 Warning: Using a weak encryption method; see :help 'cm'
 Enter encryption key:
+https://github.com/jenkins-docs/simple-java-maven-app
